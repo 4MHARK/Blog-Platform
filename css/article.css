@@ -1,0 +1,17 @@
+
+body{
+    padding: 19px 25px;
+}
+
+.crt-pg{
+    margin-bottom: 30px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.main-content{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
